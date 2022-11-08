@@ -1,0 +1,24 @@
+:root{
+    --color1: #3f4e4f;
+    --color2: #a27b5c;
+    --color3: #dcd7c9;
+    --font1: 'Lexend Deca';
+}
+
+body{
+    background-color: var(--color1);
+}
+
+body img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+body h1, h2
+{
+    text-align: center;
+    color: var(--color3);
+}
